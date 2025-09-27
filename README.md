@@ -1,2 +1,16 @@
-# Showcase-the-Operators
-Arithmetic → + - * / % → Math operations  Relational → == != > &lt; >= &lt;= → Compare values  Logical → &amp;&amp; || ! → Combine conditions  Assignment → = += -= *= /= %= → Assign &amp; update  Unary → ++ -- + - ~ ! → Increment, decrement, sign, NOT  Bitwise → &amp; | ^ ~ &lt;&lt; >> >>> → Binary level ops  Ternary → ? : → Shorthand if-else
+Projects of java.
+ Project name : Showcase the operators
+ About: Arithmetic → + - * / % → Math operations
+
+Relational → == != > < >= <= → Compare values
+
+Logical → && || ! → Combine conditions
+
+Assignment → = += -= *= /= %= → Assign & update
+
+Unary → ++ -- + - ~ ! → Increment, decrement, sign, NOT
+
+Bitwise → & | ^ ~ << >> >>> → Binary level ops
+
+Ternary → ? : → Shorthand if-else
+
